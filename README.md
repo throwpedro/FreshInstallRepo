@@ -1,5 +1,6 @@
 # FreshInstallRepo
 
+# zsh for oh-my-zsh
 Install and set up zsh as default
 If necessary, follow these steps to install Zsh:
 
@@ -19,3 +20,6 @@ Log out and login back again to use your new default shell.
 Test that it worked with echo $SHELL. Expected result: /bin/zsh or similar.
 
 Test with '$SHELL --version'. Expected result: 'zsh 5.1.1' or similar
+
+# Oh-My-Zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
