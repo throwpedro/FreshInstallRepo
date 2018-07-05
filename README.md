@@ -23,3 +23,6 @@ Test with '$SHELL --version'. Expected result: 'zsh 5.1.1' or similar
 
 # Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# Tmux
+sudo apt-get install tmux
