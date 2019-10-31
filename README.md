@@ -29,6 +29,13 @@ sudo apt-get install tmux
 
 # vscode
 https://code.visualstudio.com/docs/setup/linux
+## vscode extensions
+ - colonize
+ - prettier/eslint (javascript)
+ - phpcs
+ - trailing spaces
+ - import cost (javascript)
+
 
 # npm
 install node, npm, nvm
