@@ -27,5 +27,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 # Tmux
 sudo apt-get install tmux
 
-#vscode
+# vscode
 https://code.visualstudio.com/docs/setup/linux
+
+# npm
+install node, npm, nvm
+
+
