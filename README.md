@@ -40,4 +40,5 @@ https://code.visualstudio.com/docs/setup/linux
 # npm
 install node, npm, nvm
 
-
+# keys
+setup ssh and gdp keys
