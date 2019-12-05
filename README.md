@@ -42,3 +42,6 @@ install node, npm, nvm
 
 # keys
 setup ssh and gdp keys
+
+# clipboard manager
+clipit
