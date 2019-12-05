@@ -45,3 +45,4 @@ setup ssh and gdp keys
 
 # clipboard manager
 clipit
+sudo apt-get install clipit
